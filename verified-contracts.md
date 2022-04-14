@@ -45,22 +45,22 @@ ___
 
 | Contract                 | Address & Verified Contract                |
 | ------------------------ | ------------------------------------------ |
-| AvacashProxy             | [0x55c2Ee4f0a21c59F949f475e52415b5684280CB1](https://snowtrace.io/address/0x55c2Ee4f0a21c59F949f475e52415b5684280CB1#code) |
-| Verifier                 | [0xE52df962978D443962958160d1e33e16CC6E79b6](https://snowtrace.io/address/0xE52df962978D443962958160d1e33e16CC6E79b6#code) |
-| AvacashFinance\_AVAX-1   | [0xC4633Dab621356f1b7432A9F0A166E359B8911D4](https://snowtrace.io/address/0xC4633Dab621356f1b7432A9F0A166E359B8911D4#code) |
-| AvacashFinance\_AVAX-10  | [0x78359f9d6dBC24221A5027F9B6a89931922a0C0C](https://snowtrace.io/address/0x78359f9d6dBC24221A5027F9B6a89931922a0C0C#code) |
-| AvacashFinance\_AVAX-100 | [0x57a5f89999aB9FFCB7BB0133F49B28505a8F62B2](https://snowtrace.io/address/0x57a5f89999aB9FFCB7BB0133F49B28505a8F62B2#code) |
+| AvacashProxy             | [0x55c2Ee4f0a21c59F949f475e52415b5684280CB1](https://testnet.snowtrace.io/address/0x55c2Ee4f0a21c59F949f475e52415b5684280CB1#code) |
+| Verifier                 | [0xE52df962978D443962958160d1e33e16CC6E79b6](https://testnet.snowtrace.io/address/0xE52df962978D443962958160d1e33e16CC6E79b6#code) |
+| AvacashFinance\_AVAX-1   | [0xC4633Dab621356f1b7432A9F0A166E359B8911D4](https://testnet.snowtrace.io/address/0xC4633Dab621356f1b7432A9F0A166E359B8911D4#code) |
+| AvacashFinance\_AVAX-10  | [0x78359f9d6dBC24221A5027F9B6a89931922a0C0C](https://testnet.snowtrace.io/address/0x78359f9d6dBC24221A5027F9B6a89931922a0C0C#code) |
+| AvacashFinance\_AVAX-100 | [0x57a5f89999aB9FFCB7BB0133F49B28505a8F62B2](https://testnet.snowtrace.io/address/0x57a5f89999aB9FFCB7BB0133F49B28505a8F62B2#code) |
 
 * Anonymity **Mining** Contracts
 
 | Contract           | Address & Verified Contract                |
 | ------------------ | ------------------------------------------ |
-| AvacashTrees       | [0x438F5071e2f7b90599AaB4d82F4D24d0EcFDe106](https://snowtrace.io/address/0x438F5071e2f7b90599AaB4d82F4D24d0EcFDe106#code) |
-| Miner              | [0x4E1a39978Bf7883837457caE89C3E5F5856950c7](https://snowtrace.io/address/0x4E1a39978Bf7883837457caE89C3E5F5856950c7#code) |
-| RewardSwap         | [0x7ded2A4088EB233576C5A54E3E390aAd4FB2Fd6a](https://snowtrace.io/address/0x7ded2A4088EB233576C5A54E3E390aAd4FB2Fd6a#code) |
-| RewardVerifier     | [0xE4Ce9135A078a53A7190EB6dD6e23d321cA24790](https://snowtrace.io/address/0xE4Ce9135A078a53A7190EB6dD6e23d321cA24790#code) |
-| TreeUpdateVerifier | [0x7c7e25ac63E220075624575d7Dc09333F47df4dF](https://snowtrace.io/address/0x7c7e25ac63E220075624575d7Dc09333F47df4dF#code) |
-| WithdrawVerifier   | [0xfac43e2b4C351DeCAA82B115662445352cAeB73B](https://snowtrace.io/address/0xfac43e2b4C351DeCAA82B115662445352cAeB73B#code) |
+| AvacashTrees       | [0x438F5071e2f7b90599AaB4d82F4D24d0EcFDe106](https://testnet.snowtrace.io/address/0x438F5071e2f7b90599AaB4d82F4D24d0EcFDe106#code) |
+| Miner              | [0x4E1a39978Bf7883837457caE89C3E5F5856950c7](https://testnet.snowtrace.io/address/0x4E1a39978Bf7883837457caE89C3E5F5856950c7#code) |
+| RewardSwap         | [0x7ded2A4088EB233576C5A54E3E390aAd4FB2Fd6a](https://testnet.snowtrace.io/address/0x7ded2A4088EB233576C5A54E3E390aAd4FB2Fd6a#code) |
+| RewardVerifier     | [0xE4Ce9135A078a53A7190EB6dD6e23d321cA24790](https://testnet.snowtrace.io/address/0xE4Ce9135A078a53A7190EB6dD6e23d321cA24790#code) |
+| TreeUpdateVerifier | [0x7c7e25ac63E220075624575d7Dc09333F47df4dF](https://testnet.snowtrace.io/address/0x7c7e25ac63E220075624575d7Dc09333F47df4dF#code) |
+| WithdrawVerifier   | [0xfac43e2b4C351DeCAA82B115662445352cAeB73B](https://testnet.snowtrace.io/address/0xfac43e2b4C351DeCAA82B115662445352cAeB73B#code) |
 
 
 ****
