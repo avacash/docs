@@ -37,10 +37,10 @@ description: Version 1.1
 | TreeUpdateVerifier | [0xA6b57D424096dEc3cA7F1D8b4c75AB7c8984696d](https://snowtrace.io/address/0xA6b57D424096dEc3cA7F1D8b4c75AB7c8984696d#code) |
 | WithdrawVerifier   | [0x7F49b010db5F97424917B22374152f2Ec8C60c82](https://snowtrace.io/address/0x7F49b010db5F97424917B22374152f2Ec8C60c82#code) |
 
+___
+___
 
 **Avalanche FUJI Testnet**
-
-                                                                                 |
 * Anonymity Pools Contracts
 
 | Contract                 | Address & Verified Contract                |
